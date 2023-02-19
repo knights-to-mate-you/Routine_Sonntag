@@ -1,5 +1,5 @@
 Routine_Spielsonntagefestlegung.cpp : Diese Datei enthält die Funktion "main". Hier beginnt und endet die Ausführung des Programms.
-// Auf Github als Routine_Sonntag gespeichert
+// 
 
 #include <iostream>
 #include <string>
